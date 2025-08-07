@@ -23,3 +23,5 @@ Gained a clear and practical understanding of how to retrieve and filter data us
 
 📤 Submission
 Submitted as Task 3 for Elevate Labs SQL Developer Internship.
+
+Project Link: https://github.com/shivamsoni8192/filtering_projection_task3
